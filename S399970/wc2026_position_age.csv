@@ -1,0 +1,241 @@
+Player,Squad,Pos,Position,Age,MP,Starts,Min
+Cameron Burgess,au Australia,DF,Defender,30.0,2.0,2.0,135.0
+Jonas Adjetey,gh Ghana,DF,Defender,22.0,3.0,3.0,225.0
+Willian Pacho,ec Ecuador,DF,Defender,24.0,4.0,4.0,360.0
+Redouane Halhal,ma Morocco,DF,Defender,23.0,2.0,2.0,180.0
+Aubrey Modiba,za South Africa,DF,Defender,30.0,4.0,4.0,346.0
+Joel Ordóñez,ec Ecuador,DF,Defender,22.0,3.0,3.0,225.0
+Jiovany Ramos,pa Panama,DF,Defender,29.0,2.0,2.0,166.0
+Ko Itakura,jp Japan,DF,Defender,29.0,2.0,2.0,128.0
+Rayan Aït-Nouri,dz Algeria,DF,Defender,25.0,4.0,3.0,284.0
+Dayot Upamecano,fr France,DF,Defender,27.0,8.0,7.0,660.0
+Takehiro Tomiyasu,jp Japan,DF,Defender,27.0,3.0,2.0,184.0
+Nico Schlotterbeck,de Germany,DF,Defender,26.0,2.0,2.0,135.0
+Virgil van Dijk,nl Netherlands,DF,Defender,34.0,4.0,4.0,390.0
+Armando Obispo,cw Curaçao,DF,Defender,27.0,3.0,3.0,270.0
+Eren Elmalı,tr Türkiye,DF,Defender,25.0,2.0,1.0,111.0
+Josip Šutalo,hr Croatia,DF,Defender,26.0,4.0,4.0,360.0
+Djed Spence,eng England,DF,Defender,25.0,8.0,4.0,404.0
+Hussein Ali,iq Iraq,DF,Defender,24.0,2.0,2.0,162.0
+Exequiel Palacios,ar Argentina,DF,Defender,27.0,1.0,1.0,90.0
+Rafik Belghali,dz Algeria,DF,Defender,24.0,4.0,4.0,331.0
+Sead Kolašinac,ba Bosnia–Herz,DF,Defender,32.0,4.0,4.0,337.0
+Yazan Al-Arab,jo Jordan,DF,Defender,30.0,3.0,3.0,270.0
+Hossein Kanaanizadegan,ir IR Iran,DF,Defender,32.0,2.0,2.0,135.0
+Nico Elvedi,ch Switzerland,DF,Defender,29.0,6.0,6.0,600.0
+Finn Surman,nz New Zealand,DF,Defender,22.0,3.0,3.0,270.0
+Milad Mohammadi,ir IR Iran,DF,Defender,32.0,3.0,2.0,205.0
+Chadi Riad,ma Morocco,DF,Defender,22.0,4.0,4.0,344.0
+Kristoffer Ajer,no Norway,DF,Defender,28.0,5.0,5.0,480.0
+Sultan Al-Brake,qa Qatar,DF,Defender,30.0,2.0,1.0,141.0
+Jack Hendry,sct Scotland,DF,Defender,31.0,3.0,3.0,270.0
+Jakhongir Urozov,uz Uzbekistan,DF,Defender,22.0,2.0,1.0,95.0
+Aaron Wan-Bissaka,cd Congo DR,DF,Defender,28.0,4.0,4.0,354.0
+Boualem Khoukhi,qa Qatar,DF,Defender,35.0,3.0,3.0,270.0
+Ramy Bensebaini,dz Algeria,DF,Defender,31.0,4.0,4.0,360.0
+Silvan Widmer,ch Switzerland,DF,Defender,33.0,5.0,1.0,175.0
+Andrés Andrade Cedeño,pa Panama,DF,Defender,27.0,3.0,3.0,270.0
+Philipp Lienhart,at Austria,DF,Defender,29.0,2.0,2.0,180.0
+Israel Reyes,mx Mexico,DF,Defender,26.0,4.0,2.0,202.0
+Frans Dhia Putros,iq Iraq,DF,Defender,32.0,1.0,1.0,90.0
+Derek Cornelius,ca Canada,DF,Defender,28.0,4.0,4.0,315.0
+Nkosinathi Sibisi,za South Africa,DF,Defender,30.0,1.0,1.0,90.0
+Alistair Johnston,ca Canada,DF,Defender,27.0,5.0,5.0,450.0
+Ousmane Diomande,ci Côte d'Ivoire,DF,Defender,22.0,1.0,1.0,90.0
+Nathan Patterson,sct Scotland,DF,Defender,24.0,3.0,2.0,185.0
+Júnior Alonso,py Paraguay,DF,Defender,33.0,5.0,4.0,390.0
+Joshua Kimmich,de Germany,DF,Defender,31.0,4.0,4.0,351.0
+Fidel Escobar,pa Panama,DF,Defender,31.0,1.0,1.0,90.0
+Nathan Ngoy,be Belgium,DF,Defender,23.0,4.0,4.0,335.0
+João Cancelo,pt Portugal,DF,Defender,32.0,5.0,5.0,312.0
+Denis Zakaria,ch Switzerland,DF,Defender,29.0,4.0,4.0,357.0
+Kim Min-jae,kr Korea Republic,DF,Defender,29.0,3.0,3.0,245.0
+Jorge Sánchez,mx Mexico,DF,Defender,28.0,4.0,4.0,348.0
+Abdukodir Khusanov,uz Uzbekistan,DF,Defender,22.0,3.0,3.0,270.0
+David Raum,de Germany,DF,Defender,28.0,2.0,1.0,108.0
+Renato Veiga,pt Portugal,DF,Defender,22.0,5.0,5.0,450.0
+Malo Gusto,fr France,DF,Defender,23.0,5.0,1.0,121.0
+Scott McKenna,sct Scotland,DF,Defender,29.0,1.0,1.0,90.0
+Daniel Muñoz,co Colombia,DF,Defender,30.0,5.0,4.0,394.0
+Theo Hernández,fr France,DF,Defender,28.0,5.0,3.0,257.0
+Thomas Meunier,be Belgium,DF,Defender,34.0,3.0,2.0,190.0
+Jesús Gallardo,mx Mexico,DF,Defender,31.0,5.0,4.0,373.0
+Jaouen Hadjam,dz Algeria,DF,Defender,23.0,3.0,1.0,109.0
+Tomáš Holeš,cz Czechia,DF,Defender,33.0,2.0,2.0,153.0
+Omar Rekik,tn Tunisia,DF,Defender,24.0,2.0,2.0,180.0
+Ladislav Krejčí,cz Czechia,DF,Defender,27.0,3.0,3.0,270.0
+Ahmed Fatouh,eg Egypt,DF,Defender,28.0,3.0,3.0,267.0
+Chris Richards,us USA,DF,Defender,26.0,4.0,4.0,360.0
+Maxence Lacroix,fr France,DF,Defender,26.0,3.0,2.0,241.0
+Bekhruz Karimov,uz Uzbekistan,DF,Defender,18.0,2.0,2.0,179.0
+Stjepan Radeljić,ba Bosnia–Herz,DF,Defender,28.0,2.0,2.0,180.0
+Reece James,eng England,DF,Defender,26.0,5.0,3.0,319.0
+Steve Kapuadi,cd Congo DR,DF,Defender,28.0,2.0,2.0,180.0
+Alex Freeman,us USA,DF,Defender,21.0,5.0,4.0,374.0
+Aïssa Mandi,dz Algeria,DF,Defender,34.0,4.0,4.0,360.0
+Michael Boxall,nz New Zealand,DF,Defender,37.0,3.0,2.0,207.0
+Kalidou Koulibaly,sn Senegal,DF,Defender,34.0,2.0,2.0,161.0
+Nikola Katić,ba Bosnia–Herz,DF,Defender,29.0,4.0,4.0,317.0
+Ehsan Hajsafi,ir IR Iran,DF,Defender,36.0,2.0,1.0,91.0
+Ricardo Adé,ht Haiti,DF,Defender,36.0,3.0,3.0,270.0
+Rúben Dias,pt Portugal,DF,Defender,29.0,4.0,4.0,360.0
+Arthur Masuaku,cd Congo DR,DF,Defender,32.0,4.0,4.0,315.0
+Zaid Tahseen,iq Iraq,DF,Defender,25.0,2.0,2.0,149.0
+Gideon Mensah,gh Ghana,DF,Defender,27.0,4.0,4.0,360.0
+Jean-Kevin Duverne,ht Haiti,DF,Defender,28.0,2.0,2.0,169.0
+William Saliba,fr France,DF,Defender,25.0,6.0,6.0,479.0
+Jhon Lucumí,co Colombia,DF,Defender,27.0,5.0,5.0,478.0
+Yan Valery,tn Tunisia,DF,Defender,27.0,3.0,3.0,251.0
+Mbekezeli Mbokazi,za South Africa,DF,Defender,20.0,4.0,4.0,360.0
+Joshua Brenet,cw Curaçao,DF,Defender,32.0,2.0,2.0,179.0
+Nathan Aké,nl Netherlands,DF,Defender,31.0,3.0,2.0,170.0
+Juan Cáceres,py Paraguay,DF,Defender,26.0,5.0,5.0,436.0
+Nawaf Boushal,sa Saudi Arabia,DF,Defender,26.0,2.0,1.0,91.0
+Alessandro Circati,au Australia,DF,Defender,22.0,4.0,4.0,390.0
+David Møller Wolfe,no Norway,DF,Defender,24.0,5.0,5.0,430.0
+Abdülkerim Bardakcı,tr Türkiye,DF,Defender,31.0,3.0,3.0,265.0
+Akam Hashim,iq Iraq,DF,Defender,27.0,3.0,3.0,270.0
+Ramy Rabia,eg Egypt,DF,Defender,33.0,5.0,3.0,372.0
+Arthur Theate,be Belgium,DF,Defender,26.0,3.0,2.0,228.0
+Luc De Fougerolles,ca Canada,DF,Defender,20.0,5.0,4.0,372.0
+Torbjørn Heggem,no Norway,DF,Defender,27.0,5.0,5.0,443.0
+Marquinhos,br Brazil,DF,Defender,32.0,5.0,5.0,450.0
+Tim Ream,us USA,DF,Defender,38.0,4.0,4.0,360.0
+Lee Gi-hyuk,kr Korea Republic,DF,Defender,25.0,3.0,3.0,270.0
+Štěpán Chaloupek,cz Czechia,DF,Defender,23.0,1.0,1.0,90.0
+Ferdi Kadioglu,tr Türkiye,DF,Defender,26.0,2.0,2.0,159.0
+Facundo Medina,ar Argentina,DF,Defender,27.0,5.0,3.0,308.0
+Marc Guéhi,eng England,DF,Defender,25.0,8.0,7.0,663.0
+Mert Müldür,tr Türkiye,DF,Defender,27.0,3.0,1.0,101.0
+Tyler Bindon,nz New Zealand,DF,Defender,21.0,3.0,1.0,97.0
+Guillermo Varela,uy Uruguay,DF,Defender,33.0,3.0,3.0,270.0
+Khuliso Mudau,za South Africa,DF,Defender,31.0,4.0,4.0,360.0
+Tim Payne,nz New Zealand,DF,Defender,32.0,3.0,3.0,224.0
+Juan Manuel Sanabria,uy Uruguay,DF,Defender,26.0,3.0,2.0,204.0
+Ali Abdi,tn Tunisia,DF,Defender,32.0,3.0,3.0,269.0
+Abdulla Abdullaev,uz Uzbekistan,DF,Defender,28.0,2.0,2.0,180.0
+Gustavo Gómez,py Paraguay,DF,Defender,33.0,5.0,5.0,480.0
+Pau Cubarsí,es Spain,DF,Defender,19.0,8.0,8.0,750.0
+Piero Hincapié,ec Ecuador,DF,Defender,24.0,4.0,4.0,339.0
+Jules Koundé,fr France,DF,Defender,27.0,8.0,7.0,599.0
+Mark McKenzie,us USA,DF,Defender,27.0,1.0,1.0,90.0
+Amar Memić,ba Bosnia–Herz,MF,Midfielder,25.0,4.0,2.0,224.0
+Thiago Almada,ar Argentina,MF,Midfielder,25.0,5.0,3.0,241.0
+Carlos Harvey,pa Panama,MF,Midfielder,26.0,3.0,3.0,267.0
+Brahim Díaz,ma Morocco,MF,Midfielder,26.0,6.0,6.0,457.0
+Edo Kayembe,cd Congo DR,MF,Midfielder,28.0,3.0,2.0,160.0
+Christian Pulisic,us USA,MF,Midfielder,27.0,4.0,3.0,223.0
+Michal Sadílek,cz Czechia,MF,Midfielder,27.0,3.0,2.0,183.0
+Marcus Rashford,eng England,MF,Midfielder,28.0,6.0,3.0,223.0
+Elliot Anderson,eng England,MF,Midfielder,23.0,8.0,7.0,632.0
+Junya Itō,jp Japan,MF,Midfielder,33.0,4.0,2.0,216.0
+Leroy Sané,de Germany,MF,Midfielder,30.0,4.0,4.0,326.0
+Marko Stamenic,nz New Zealand,MF,Midfielder,24.0,3.0,3.0,269.0
+Cristian Volpato,au Australia,MF,Midfielder,22.0,3.0,2.0,160.0
+Granit Xhaka,ch Switzerland,MF,Midfielder,33.0,6.0,6.0,600.0
+Stephen Eustáquio,ca Canada,MF,Midfielder,29.0,5.0,4.0,392.0
+Aurélien Tchouaméni,fr France,MF,Midfielder,26.0,4.0,4.0,360.0
+Fabián Ruiz Peña,es Spain,MF,Midfielder,30.0,8.0,4.0,321.0
+Yasin Ayari,se Sweden,MF,Midfielder,22.0,4.0,4.0,339.0
+Pedri,es Spain,MF,Midfielder,23.0,8.0,5.0,499.0
+Joe Bell,nz New Zealand,MF,Midfielder,27.0,3.0,3.0,243.0
+Jaroslav Zelený,cz Czechia,MF,Midfielder,33.0,2.0,1.0,126.0
+Esmir Bajraktarevic,ba Bosnia–Herz,MF,Midfielder,21.0,4.0,2.0,230.0
+Abdullah Al-Khaibari,sa Saudi Arabia,MF,Midfielder,29.0,3.0,3.0,180.0
+Saeid Ezatolahi,ir IR Iran,MF,Midfielder,29.0,3.0,3.0,264.0
+Aleksandar Pavlovic,de Germany,MF,Midfielder,22.0,4.0,4.0,272.0
+Fares Chaïbi,dz Algeria,MF,Midfielder,23.0,4.0,4.0,360.0
+Rodrigo De Paul,ar Argentina,MF,Midfielder,32.0,7.0,6.0,491.0
+Nilson Angulo,ec Ecuador,MF,Midfielder,22.0,4.0,2.0,218.0
+Sander Berge,no Norway,MF,Midfielder,28.0,5.0,5.0,480.0
+Mateo Kovačić,hr Croatia,MF,Midfielder,32.0,4.0,3.0,270.0
+Ibrahim Sangaré,ci Côte d'Ivoire,MF,Midfielder,28.0,4.0,3.0,268.0
+Alexander Bernhardsson,se Sweden,MF,Midfielder,27.0,3.0,3.0,217.0
+Hannibal Mejbri,tn Tunisia,MF,Midfielder,23.0,3.0,3.0,270.0
+Ivan Šunjić,ba Bosnia–Herz,MF,Midfielder,29.0,4.0,3.0,196.0
+Jean-Ricner Bellegarde,ht Haiti,MF,Midfielder,27.0,3.0,3.0,260.0
+Jesper Karlström,se Sweden,MF,Midfielder,30.0,2.0,2.0,138.0
+Leandro Bacuna,cw Curaçao,MF,Midfielder,34.0,3.0,3.0,270.0
+Noah Sadiki,cd Congo DR,MF,Midfielder,21.0,4.0,2.0,259.0
+Gustavo Puerta,co Colombia,MF,Midfielder,22.0,5.0,5.0,469.0
+Felix Nmecha,de Germany,MF,Midfielder,25.0,4.0,4.0,270.0
+Ismaël Koné,ca Canada,MF,Midfielder,23.0,2.0,2.0,146.0
+Anis Hadj Moussa,dz Algeria,MF,Midfielder,24.0,3.0,1.0,98.0
+Elijah Just,nz New Zealand,MF,Midfielder,26.0,3.0,3.0,264.0
+Nicolas Raskin,be Belgium,MF,Midfielder,25.0,6.0,3.0,341.0
+Chemsdine Talbi,ma Morocco,MF,Midfielder,21.0,5.0,1.0,179.0
+Neil El Aynaoui,ma Morocco,MF,Midfielder,24.0,6.0,6.0,562.0
+Luka Modrić,hr Croatia,MF,Midfielder,40.0,4.0,4.0,317.0
+Eberechi Eze,eng England,MF,Midfielder,27.0,5.0,1.0,211.0
+Thomas Partey,gh Ghana,MF,Midfielder,33.0,3.0,3.0,270.0
+Tajon Buchanan,ca Canada,MF,Midfielder,27.0,5.0,5.0,376.0
+Gabriel Martinelli,br Brazil,MF,Midfielder,24.0,4.0,1.0,143.0
+Youri Tielemans,be Belgium,MF,Midfielder,29.0,5.0,5.0,474.0
+Nico Williams,es Spain,MF,Midfielder,23.0,6.0,0.0,113.0
+Manu Koné,fr France,MF,Midfielder,25.0,5.0,4.0,385.0
+Callum McCowatt,nz New Zealand,MF,Midfielder,27.0,3.0,2.0,159.0
+Laros Duarte,cv Cabo Verde,MF,Midfielder,29.0,4.0,2.0,166.0
+Elliot Stroud,se Sweden,MF,Midfielder,23.0,4.0,2.0,166.0
+Ngal'Ayel Mukau,cd Congo DR,MF,Midfielder,21.0,4.0,3.0,195.0
+Azzedine Ounahi,ma Morocco,MF,Midfielder,26.0,6.0,5.0,435.0
+Manuel Ugarte,uy Uruguay,MF,Midfielder,25.0,3.0,3.0,184.0
+Pedro Vite,ec Ecuador,MF,Midfielder,24.0,4.0,4.0,360.0
+Keito Nakamura,jp Japan,MF,Midfielder,25.0,4.0,4.0,307.0
+Orkun Kökçü,tr Türkiye,MF,Midfielder,25.0,3.0,2.0,153.0
+Mohammad Ghorbani,ir IR Iran,MF,Midfielder,25.0,1.0,1.0,90.0
+Dodi Lukebakio,be Belgium,MF,Midfielder,28.0,3.0,1.0,164.0
+Amadou Onana,be Belgium,MF,Midfielder,24.0,4.0,2.0,106.0
+İsmail Yüksek,tr Türkiye,MF,Midfielder,27.0,2.0,2.0,139.0
+Daichi Kamada,jp Japan,MF,Midfielder,29.0,4.0,4.0,329.0
+Leandro Paredes,ar Argentina,MF,Midfielder,31.0,7.0,4.0,473.0
+Vitinha,pt Portugal,MF,Midfielder,26.0,5.0,5.0,376.0
+Lewis Ferguson,sct Scotland,MF,Midfielder,26.0,3.0,3.0,270.0
+João Neves,pt Portugal,MF,Midfielder,21.0,5.0,4.0,390.0
+Dostonbek Khamdamov,uz Uzbekistan,MF,Midfielder,29.0,2.0,1.0,103.0
+Enzo Fernández,ar Argentina,MF,Midfielder,25.0,7.0,7.0,659.0
+Paul Wanner,at Austria,MF,Midfielder,20.0,4.0,2.0,234.0
+Ismaël Gharbi,tn Tunisia,MF,Midfielder,22.0,3.0,1.0,127.0
+Patrick Berg,no Norway,MF,Midfielder,28.0,6.0,4.0,445.0
+Alexis Mac Allister,ar Argentina,MF,Midfielder,27.0,8.0,7.0,750.0
+Jassem Gaber,qa Qatar,MF,Midfielder,24.0,3.0,3.0,149.0
+Nicolás González,ar Argentina,MF,Midfielder,28.0,7.0,1.0,259.0
+Khojiakbar Alijonov,uz Uzbekistan,MF,Midfielder,29.0,2.0,1.0,135.0
+Louicius Deedson,ht Haiti,MF,Midfielder,25.0,3.0,1.0,112.0
+Noor Al Rawabdeh,jo Jordan,MF,Midfielder,29.0,3.0,3.0,270.0
+Hans Vanaken,be Belgium,MF,Midfielder,33.0,6.0,3.0,319.0
+Salih Özcan,tr Türkiye,MF,Midfielder,28.0,2.0,1.0,100.0
+Deroy Duarte,cv Cabo Verde,MF,Midfielder,26.0,4.0,2.0,264.0
+Scott McTominay,sct Scotland,MF,Midfielder,29.0,3.0,3.0,270.0
+Erik Lira,mx Mexico,MF,Midfielder,26.0,4.0,4.0,345.0
+Sphephelo Sithole,za South Africa,MF,Midfielder,27.0,3.0,3.0,229.0
+Mohammad Mohebi,ir IR Iran,MF,Midfielder,27.0,3.0,3.0,244.0
+Lucas Bergvall,se Sweden,MF,Midfielder,20.0,4.0,1.0,181.0
+Jhon Arias,co Colombia,MF,Midfielder,28.0,5.0,5.0,377.0
+Ayyoub Bouaddi,ma Morocco,MF,Midfielder,18.0,5.0,5.0,381.0
+Rodrigo Bentancur,uy Uruguay,MF,Midfielder,28.0,3.0,3.0,270.0
+Casemiro,br Brazil,MF,Midfielder,34.0,5.0,5.0,379.0
+Yukinari Sugawara,jp Japan,MF,Midfielder,25.0,4.0,1.0,148.0
+Ivan Bašić,ba Bosnia–Herz,MF,Midfielder,24.0,3.0,2.0,179.0
+Arda Güler,tr Türkiye,MF,Midfielder,21.0,3.0,3.0,270.0
+Sarpreet Singh,nz New Zealand,MF,Midfielder,27.0,3.0,3.0,209.0
+Zidane Iqbal,iq Iraq,MF,Midfielder,23.0,3.0,2.0,188.0
+Andrés Cubas,py Paraguay,MF,Midfielder,30.0,5.0,5.0,480.0
+Aziz Gʻaniyev,uz Uzbekistan,MF,Midfielder,28.0,2.0,1.0,122.0
+Mikel Merino,es Spain,MF,Midfielder,29.0,8.0,1.0,199.0
+Nathan Saliba,ca Canada,MF,Midfielder,22.0,3.0,2.0,182.0
+Álvaro Fidalgo,mx Mexico,MF,Midfielder,29.0,3.0,1.0,96.0
+Lamine Camara,sn Senegal,MF,Midfielder,22.0,4.0,3.0,248.0
+Franck Kessié,ci Côte d'Ivoire,MF,Midfielder,29.0,4.0,4.0,346.0
+Samuel Moutoussamy,cd Congo DR,MF,Midfielder,29.0,4.0,4.0,330.0
+Remo Freuler,ch Switzerland,MF,Midfielder,34.0,6.0,6.0,592.0
+Relebohile Mofokeng,za South Africa,MF,Midfielder,21.0,3.0,2.0,169.0
+Jude Bellingham,eng England,MF,Midfielder,22.0,8.0,7.0,614.0
+John Yeboah,ec Ecuador,MF,Midfielder,25.0,4.0,4.0,311.0
+Michael Olise,fr France,MF,Midfielder,24.0,8.0,8.0,646.0
+Caleb Yirenkyi,gh Ghana,MF,Midfielder,20.0,4.0,3.0,264.0
+John McGinn,sct Scotland,MF,Midfielder,31.0,3.0,3.0,259.0
+Thelo Aasgaard,no Norway,MF,Midfielder,24.0,1.0,1.0,90.0
+Tyler Adams,us USA,MF,Midfielder,27.0,4.0,4.0,341.0
+Seko Fofana,ci Côte d'Ivoire,MF,Midfielder,31.0,2.0,1.0,92.0
+Rayan Cherki,fr France,MF,Midfielder,22.0,7.0,1.0,130.0
+Christ Inao Oulaï,ci Côte d'Ivoire,MF,Midfielder,20.0,4.0,2.0,208.0
